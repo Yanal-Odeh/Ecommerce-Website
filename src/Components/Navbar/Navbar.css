@@ -1,0 +1,6 @@
+.nav-item .active {
+  border-bottom: solid 2px teal !important; 
+}
+.navbar{
+  background-color: #FFFFEB !important;
+}
